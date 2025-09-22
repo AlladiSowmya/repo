@@ -1,0 +1,2 @@
+update hello.txt including staging and committing example.
+  
